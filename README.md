@@ -1,1 +1,0 @@
-# ft_dr_quine
